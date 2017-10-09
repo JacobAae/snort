@@ -2,6 +2,12 @@
 
 # Snort with pulledpork Dockerfile
 
+![build](https://img.shields.io/docker/automated/patrickneise/snort.svg)
+![license](https://img.shields.io/github/license/patrickneise/snort.svg)
+![docker stars](https://img.shields.io/docker/stars/patrickneise/snort.svg)
+![docker pulls](https://img.shields.io/docker/pulls/patrickneise/snort.svg)
+![github stars](https://img.shields.io/github/stars/patrickneise/snort.svg?style=social&label=Stars)
+
 This repository contains a **Dockerfile** of [Snort](https://www.snort.org/).
 
 **DISLAIMER** - This image has not been tested in a production environment and is configured per the [Snort Installation Guide](https://www.snort.org/documents/snort-2-9-9-x-on-ubuntu-14-16) for Ubuntu.
