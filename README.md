@@ -133,7 +133,7 @@ The defaults can be overidden at run time with `-e` option for `docker run` or i
 Example for `docker run`:
 
 ```
-$docker run -e INTERFACE=eth1 -e HONE_NET=10.0.0.0/8 patrickneise/snort -i eth1
+$docker run -e INTERFACE=eth1 -e HOME_NET=10.0.0.0/8 patrickneise/snort -i eth1
 ```
 
 Example for `docker-compose.yml`:
@@ -165,7 +165,7 @@ patrickneise/snort -i eth1
 
 ### Issues
 
-Any requests, bugs, or missing documentation? Please don't hesitate to submit an issue.  This is work in progress and input is welcome.
+Any requests, bugs, or missing documentation? Please don't hesitate to [submit an issue](https://github.com/patrickneise/snort/issues).  This is work in progress and input is welcome.
 
 ### TODO
 
